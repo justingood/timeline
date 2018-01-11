@@ -1,0 +1,6 @@
+db/timeline.db
+Dockerfile
+test.sh
+.dockerignore
+.python-version
+.git

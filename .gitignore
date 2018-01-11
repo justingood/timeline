@@ -1,0 +1,3 @@
+*.pyc
+.python-version
+db/timeline.db
